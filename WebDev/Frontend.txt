@@ -1,0 +1,480 @@
+КАК СТАТЬ FRONTEND РАЗРАБОТЧИКОМ С УРОВНЯ НОЛЬ ДО УРОВНЯ JUNIOR
+
+ЧАСТЬ 1
+
+Шаг 1. Введение (OK)
+
+? Что такое веб     (OK)
+? Общение клиент-сервер (OK)
+? Http протокол          (OK)
+? Принцип работы браузера  (OK)
+
+
+Шаг 2. Устанавливаем редактор кода, например VSCode (OK)
+
+? Учимся работать в среде разработки (OK)
+
+
+Шаг 3.Изучаем основы HTML, практикуем (OK)
+
+? Теги (OK)
+? Метатеги (OK)
+? Viewport (OK)
+? Атрибуты (OK)
+? спецсимволы (OK)
+? Ссылки (OK)
+? Изображения + форматы изображений (OK)
+? Списки (OK)
+? Таблицы (OK)
+? Формы (OK)
+? Семантические теги HTML5  (OK)
+? Вставка мультимедиа (видео, аудио) (OK)
+
+
+
+Шаг 4.Изучаем основы СSS (OK)
+? основные свойства (OK)
+o Текст (OK)
+o Шрифт (OK)
+o      Цвет (OK)
+o Градиент (OK)
+o Единицы измерения (OK)
+o Рамки (OK)
+o Размеры (OK)
+o Позиционирование (OK)
+o Отступы (OK)
+o Фон (OK)
+
+? Селекторы (OK)
+? Каскадирование (OK)
+? Псевдоэлементы (OK)
+? Анимация (OK)
+? Flex   (OK)
+? Grid (OK)
+? Адаптивная верстка (OK)
+? Работа с SVG (OK)
+
+Дополнительно:
+• изучаем инструменты разработчика в Chrome (Style)   (OK)
+• изучаем Emmet (желательно) (OK)
+По желанию:
+• Bootstrap (OK)
+• БЭМ (OK)
+
+
+Шаг 5. Изучаем git
+
+? устанавливаем git bash (ссори,в видео описка), (OK)
+? знакомимся с github, (OK)
+? заводим свой первый репозиторий,  (OK)
+? практикуем команды git (OK)
+? создаём файл .gitignore (OK)
+
+Обязательно знать команды: (OK)
+o Git add (OK)
+o Git status (OK)
+o Git commit (OK)
+o Git push (OK) 
+o Git pull (OK)
+o Git merge (OK)
+o Git checkout  (OK)
+
+
+
+
+Шаг 6. Верстка первого сайта
+
+? Используем Git (OK)
+? Адаптивная вёрстка (OK) 
+? Анимация (OK)
+? Есть переходы по ссылкам (OK)
+
+Желательно использовать как можно больше полученных знаний для их закрепления. (OK)
+
+_____________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Шаг 7. Изучаем основы JS ES5
+? Что такое EcmaScript (OK)
+? Переменные (OK)
+? Типы данных (OK)
+? Массивы (OK)
++  Методы массивов (OK)
+? Объекты (OK)
++ Методы объектов
+? Функции (OK)
++ Чистые функции (OK)
+? Контекст (OK)
++ This (OK)
++ Сall  (OK)
++ Apply (OK)
++ Bind (OK)
++ Каррирование  (OK)
+
+? Замыкания  (OK)
+? Таймеры (OK)
++ setTimeout (OK)
++ setInterval (OK)
+? Промисы(OK) 
++ Promise (OK)
++ Promise.all  (OK)
++ resolve (OK)
++ reject (OK)
+? Исключения  (OK)
++ try…catch.. (OK)
++ then (OK)
+
+Дополнительно:
+• изучаем инструменты разработчика в Chrome (Sources, Console) + Debugging
+• учимся писать комментарии с помощью JSDoc
+
+Материалы:
+https://www.youtube.com/playlist?list... (плейлист) – основы JS
+или
+https://www.youtube.com/watch?v=omjT7... (плейлист) – основы JS
+https://learn.javascript.ru/(учебник)- на любую из тем по JS здесь есть ответ + примеры
+https://developer.mozilla.org/ru/docs...) – грамматика и типы
+https://developer.mozilla.org/ru/docs... (учебник) – выражения и операторы
+https://learn.javascript.ru/comparison (учебник) - логические операторы, знать каждому!
+https://developer.mozilla.org/ru/docs... (учебник) - подробно про массивы
+https://developer.mozilla.org/ru/docs... (учебник) - подробно про объекты
+https://learn.javascript.ru/function-... , https://learn.javascript.ru/function-... (учебник) – про функции
+https://learn.javascript.ru/recursion (учебник) –что такое рекурсия
+https://habr.com/ru/post/437512/ (cтатья) - про чистые функции
+https://learn.javascript.ru/settimeou... (учебник) - таймеры
+https://learn.javascript.ru/exception (учебник) - обработка ошибок
+https://www.youtube.com/watch?v=DxYU5... (видео) – инструменты разработчика, часть2
+https://devdocs.io/jsdoc/ (документация) - JSDoc
+
+Шаг 8. Работа с элементами DOM
+
+? что такое DOM? (OK)
+? Document (OK)
++ createElement   (OK)
++ getElementById (OK)
++ querySelector   (OK)
++ createEvent (OK)
+
+? Element (OK)
++ children   (OK)
++ classList  (OK)
++ innerHTML (OK)
++ append  (OK)
++ closest (OK)
++ getAttribute  (OK)
++ setAttribute (OK)
+
+? События(Events) (OK)
++ addEventListene (OK)
++ click (OK)
++ change (OK)
++ focus  (OK)
++ blur (OK)
++ mousemove (OK)
++ keydown (OK)
++ пользовательские (OK)
+
+Материалы:
+https://developer.mozilla.org/ru/docs... Что такое DOM
+https://www.youtube.com/watch?v=1FpuK... (видео) –работа с DOM
+https://developer.mozilla.org/en-US/d... Window
+https://developer.mozilla.org/en-US/d... Document
+https://developer.mozilla.org/ru/docs... Element
+https://learn.javascript.ru/introduct...) – про события (введение)
+https://developer.mozilla.org/ru/docs... - создание пользовательского события
+
+
+Шаг 9. Наследование
+
+? Наследование (OK)
+? Прототипы (OK)
+? Конструкторы (OK)
+? Классы (OK)
+
+Материалы:
+https://javascript.ru/tutorial/object... (учебник) – про наследование
+https://www.youtube.com/watch?v=Qve7g... (видео) – прототипное наследрование
+https://developer.mozilla.org/ru/docs... (учебник) - наследование и прототипы
+https://learn.javascript.ru/prototypes (учебник)- еще больше про прототипы
+https://learn.javascript.ru/construct... (учебник) - про конструкторы
+http://jsraccoon.ru/oop-constructors (учебник) - про конструкторы
+https://learn.javascript.ru/classes(у...) - классы
+
+
+Шаг 10. Работа с запросами
+? JSON  (OK)
+? LocalStorage, sessionStorage, Cookie (OK)
+? AJAX. XMLHttpRequest. (OK)
+? Асинхронное пограммирование.(OK)
+? API. Cross-domain requests. CORS (OK)
+
+Материалы:
+https://learn.javascript.ru/json (учебник)- JSON
+https://developer.mozilla.org/ru/docs... (учебник) -JSON.parse()
+https://developer.mozilla.org/ru/docs... (учебник)-JSON.stringify
+
+https://developer.mozilla.org/ru/docs...) - sessionStorage
+https://developer.mozilla.org/ru/docs... (учебник)- localStorage
+https://developer.mozilla.org/ru/docs... (учебник)- cookie
+https://learn.javascript.ru/cookie(уч...) -тоже про куки
+https://learn.javascript.ru/ajax (учебник)- всё про AJAX и XMLHttpRequest
+https://habr.com/ru/company/ruvds/blo... (статья) - методы работы с асинхронным программированием
+https://learn.javascript.ru/promise (учебник)- про промисы
+
+https://www.youtube.com/watch?v=5kAPE... (видео) – про async/await
+https://www.youtube.com/watch?v=vNEDP... (видео) - промисы (синтаксис ES6)
+
+https://developer.mozilla.org/ru/docs... (учебник) - про АПИ
+https://www.youtube.com/watch?v=ZOAr4... (видео) – как работать с АПИ
+https://developer.mozilla.org/ru/docs... (учебник) - про CORS
+
+__________________________________________________________________________
+
+Шаг 11. Изучаем паттерны/шаблоны проэктирования в JS
+
+? OOП (OK)
+? Функциональное программирование (OK)
+? MVC (OK)
+? Publisher-Subscriber  (OK)
+? JavaScript модули (OK)
+
+Материалы:
+https://habr.com/ru/post/136766/ (статья)- про паттерны
+https://learn.javascript.ru/oop (учебник)  - ООП в функциональном стиле
+https://learn.javascript.ru/prototypes  (учебник)- ООП в прототипном стиле
+https://www.youtube.com/watch?v=fdOlCPPjehg&list=PL-h9EBz3QPtHwobmw2eNyCs9y3mHOIzs8 (плейлист) – паттерны в JS
+https://habr.com/ru/company/mailru/blog/327522/(статья) - функциональное программирование
+https://www.youtube.com/watch?v=8nWQCcqUwR0 (вебинар) – функциональное программирование
+https://habr.com/ru/company/ruvds/blog/333856/ (статья) – MVC
+https://www.youtube.com/watch?v=9shKSKcSGDo&list=PLY4rE9dstrJya20WfIeVLOuof4yQk8tC_ (плейлист) - MVC
+https://javascript.ru/optimize/antimvc(учебник) - альтрнативы MVC
+https://habr.com/ru/post/270339/ (статья) – про pub-sub и observer
+https://learn.javascript.ru/modules (учеьник) - про модули
+
+
+Шаг 12.Node.js (OK)
+? Устанавливаем (OK)
+? Создаем Package.json (OK)
+
+
+Материалы:
+https://nodejs.org/en/ (официальный сайт) – скачать и установить node.js
+https://habr.com/ru/post/243335/ (статья) – про npm и package
+https://www.youtube.com/watch?v=G4HmqOR0b8Q (видео) - как пользоваться npm
+https://www.youtube.com/watch?v=CrevZgTc7ow&feature=youtu.be&list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg&t=13 (видео)– подробно про package.json
+
+
+
+Шаг 13. Gulp
+? Устанавливаем Gulp с помощью npm  (OK)
+? Изучаем Gulp (OK)
+? Делаем свою первую сборку (OK)
+? Оптимизируем процесс (OK)
+? Смотрим примеры (OK)
+
+Материалы:
+https://gulpjs.com// - официальный сайт
+https://learn.javascript.ru/screencast/gulp - скринкаст по gulp
+
+Шаг 14. Изучаем JS ES6, подключаем Babel,  (OK)
+- В чем разница, что нового в ES6, ES7, ES8, ES9, ES10   (OK)
+- Let, const вместо var (OK)
+- Деструктуризация(OK)
+- Стрелочные функции (OK)
+- Модули (импорт и экспорт) (OK)
+- Шаблонные строки (OK)
+- Что такое Babel и для чего он нужен (OK)
+- Пакеты babel  (OK)
+- донастраиваем конфиг gulp для babel.js (OK)
+
+материалы:
+https://babeljs.io/setup#installation – конфиг для gulp с babel
+https://habr.com/ru/post/313526/ - возможности ES6
+https://habr.com/ru/company/ruvds/blo... - возможности ES7,ES8, ES9
+https://habr.com/ru/post/437806/ - новинки ES10
+
+ 
+Шаг 15. Cтруктурируем js правильно (OK)
+- Форматируем (Prettier) (OK)
+- Улучшаем стиль. Изучаем лучшие практики (OK)
+- Компоненты и модули  (OK)
+- Точка(и) входа (OK)
+- Изучаем что такое SPA, MPA, PWA и т.д.   (OK)
+-       Cмотрим примеры кода на github
+
+Материалы:
+https://learn.javascript.ru/coding-style - советы по улучшению стиля кода
+https://prettier.io/ - устанавливаем Prettier
+https://code.tutsplus.com/ru/tutorial... - про лучшие практики в JS и чего следует избегать
+https://developer.mozilla.org/ru/docs... - еще раз про ООП
+https://learn.javascript.ru/modules-i... - про модули
+https://habr.com/ru/post/276593  - про архитектуру
+https://www.youtube.com/watch?v=cz4rM... – смотрим пример создания приложения на чистом JS и пробуем повторить
+
+
+Шаг 16.Изучаем SASS, SCSS, LESS, Stylus. (OK)
+- Что это такое и чем отличается от CSS (OK)
+- SASS, SCSS, LESS, Stylus (OK)
+o переменные (OK)
+o операторы (OK)
+o вложенность (OK)
+- донастраиваем конфиг gulp (OK)
+
+Материалы:
+https://www.youtube.com/watch?v=jjqvl... – пример использования препроцессора с gulp (видео)
+https://mrmlnc.gitbooks.io/less-guide... - что такое препроцессор CSS и для чего они нужны
+https://sass-scss.ru/ - документация на русском по Sass, SCSS
+https://habr.com/ru/post/140612/ - про SCSS и отличие SCSS от SASS
+https://www.npmjs.com/package/gulp-sass - донастраиваем gulp
+
+
+
+Шаг 17. Изучаем Pug (Jade). (OK)
+- донастраиваем конфиг gulp для pug (OK)
+- разметка(OK)
+- условия (OK)
+- циклы (OK)
+- инклюды (OK)
+- миксины (OK)
+- наследование (OK)
+
+материалы:
+https://gist.github.com/neretin-trike... - пример использования pug
+https://www.youtube.com/watch?v=kKrYA... – скринкаст по pug
+https://www.npmjs.com/package/gulp-pug - донастраиваем gulp для pug
+
+
+Шаг 18. Изучаем автоматическое тестирование
+- Mocha (OK)
+- Chai (OK)
+- Sinon (OK)
+
+Материалы:
+https://learn.javascript.ru/testing-m... - зачем нужны тесты и примеры использования
+______________________________________________________________________
+
+Шаг 19. Изучаем фреймворк (React)
+- устанавливаем create-react-app
+- JSX
+- Компонент
+- Пропс (props)
+- Состояние (state)
+-       Жизненный цикл и его методы
+o ComponentDidMount()
+o ComponentWillUnmount()
+- Render()
+- Ключи
+
+Материалы:
+https://ru.reactjs.org/ - документация на русском
+https://learn.javascript.ru/screencas... - скринкаст по реакт
+
+
+Шаг 20. Изучаем Redux
+- Однонаправленный поток данных
+- Store
+- Action
+- Reducer
+- Dispatch
+- Connect
+- mapStateToProps
+- mapDispatchToProps
+
+Материалы:
+https://github.com/rajdee/redux-in-ru... - документация на русском
+https://github.com/rajdee/redux-in-ru... - документация на русском (основы)
+
+
+Шаг 21. Изучаем Webpack
+- точка входа/точка вывода
+- конфиг
+- взаимодействие с babel
+- загрузчики и плагины
+
+Материалы:
+https://learn.javascript.ru/screencas... - скринкаст и подробный разбор webpack версии 1
+https://tproger.ru/translations/confi... - инструкция по конфигурации webpack версии 4
+https://webpack.js.org/concepts/ - документация
+______________________________________________________________________
+
+
+
+
+
+
+22 Дополнительно.(OK)
+понимать что такое (OK)
+livereload,  (OK)
+autoprefixer,  (OK)
+минификация,  (OK)
+gzip сжатие,  (OK)
+правило 14 кбайт,  (OK)
+
+ книга: Дэвид Флэгман- JavaScript. Подробное руководство
+необходимо изучить библиотеку jQuerry
+практика: Научится писать слайдеры, табы, аккордеоны, модальные окна и все такое
+Когда станете более менее в java script 
+и в работе с DOM изучить или хотя бы рассмотреть следуйщие библиотеки:
+slick,
+owl,
+carousel,
+flickity,
+mansory pkgd,
+jQuerry UI sortable,
+Photo swipe,
+Magnific popup,
+cute slider,
+jQuerry Form Validation, 
+Select2, 
+jQuerry JSON editor, 
+Face detection, 
+progress.js,
+tooltipister,
+tupehead,
+fittext,
+prettymbed,
+fitvids,
+fullpage.js,
+velocity.JS,
+tree.js.
+MatchHeight,
+slideout.js,
+focuspoint,
+liquid images,
+vide,
+swipe,
+autocomplete.js,
+swiper,
+template7,
+jsbarcode,
+inputmask,
+remodal,
+gldatepicker,
+chart.js,
+easy tabs и так далее...
+
+ Алгоритмы 
+
+23)конвас
